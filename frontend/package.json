@@ -1,0 +1,7 @@
+{
+  "name": "html-fund-me",
+  "packageManager": "yarn@3.6.0",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
